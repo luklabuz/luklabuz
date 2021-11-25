@@ -4,7 +4,7 @@ I'm *luklabuz*. I study Computer Science and Intelligent Systems at the **AGH Un
 
 I'm currently working on the *mknl* project as a part of the [AGH Narzedzia Informatyczne 2021-2022](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022) organization.
 
-My homepage: [click!](luklabuz.github.io)
+My homepage: [click!](https://luklabuz.github.io)
 
 Have a picture of a cat:
 
