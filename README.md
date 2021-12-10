@@ -6,6 +6,8 @@ I'm currently working on the *mknl* project as a part of the [AGH Narzedzia Info
 
 My homepage: [click!](https://luklabuz.github.io)
 
+A fork of an interesting project: [click!](https://github.com/luklabuz/WantWords) (It's a working *reverse dictionary* – you write a description and get words matching that description.)
+
 Have a picture of a cat:
 
 ![cat](https://user-images.githubusercontent.com/92466711/142648897-0457bf2f-3cac-4225-8949-99d0cbd3a8a5.jpg)
