@@ -1,12 +1,7 @@
 ### Hi 👋
 
-I'm *luklabuz*. I study Computer Science and Intelligent Systems at the **AGH University of Science and Technology**.
+I'm *luklabuz*. Currently I am a 3<sup>rd</sup> year student of Computer Science and Intelligent Systems at the **AGH University of Krakow**.
 
-I'm currently working on the *mknl* project as a part of the [AGH Narzedzia Informatyczne 2021-2022](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022) organization.
-
-My homepage: [click!](https://luklabuz.github.io)
-
-A fork of an interesting project: [click!](https://github.com/luklabuz/WantWords) (It's a working *reverse dictionary* – you write a description and get words matching that description.)
 
 Have a picture of a cat:
 
